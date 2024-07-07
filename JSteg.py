@@ -69,4 +69,4 @@ if __name__ == "__main__":
 
     # 提取消息
     extracted_message = extract_message('hidden_image.png')
-    print("提取到的隐藏信息为：", extracted_message)b
+    print("提取到的隐藏信息为：", extracted_message)
